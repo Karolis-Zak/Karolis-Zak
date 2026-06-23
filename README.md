@@ -1,15 +1,19 @@
 # Hey, I'm Karolis
 
-I'm a front-end developer at [Mission10](https://mission10.co.uk) in Aberdeen I'm the only front-end dev there so I look after everything from initial builds to production and maintenance across 40+ client sites.
+I'm a front-end developer at [Mearns & Gill](https://www.mearns-gill.com?utm_source=chatgpt.com) in Aberdeen. I work across everything from new builds to production and maintenance for a range of client websites.
 
-Most of my work is in Craft CMS (Twig), Tailwind, and JavaScript (Vue.js, Alpine.js). I spend a lot of time in GSAP/ScrollTrigger for animations and have been getting into building Craft CMS plugins recently.
+Most of my work is in Craft CMS (Twig), Tailwind, and JavaScript (Vue.js, Alpine.js). I spend a lot of time working with GSAP/ScrollTrigger for animations and have recently started getting into Craft CMS plugin development.
 
 Some things I've worked on:
-- Built out the agency's internal Craft CMS boilerplate to 70+ content blocks
-- Interactive SVG property maps for residential developments
-- Leaflet.js map integrations, CMS upgrades (Craft v3 through v5), PHP version migrations
-- A few custom Craft plugins block styling, HubSpot form integration, content tooling
 
-Most of my day to day work lives in private repos, so my contribution graph doesn't tell the full story.
+* Built and maintained websites for clients across multiple sectors
+* Interactive SVG property maps for residential developments
+* Leaflet.js map integrations
+* Craft CMS upgrades (v3 through v5) and PHP version migrations
+* Custom Craft CMS plugins, HubSpot form integrations, and content tooling
+* Ongoing maintenance and support across 40+ client sites
 
-[karolis.uk](https://karolis.uk) / [LinkedIn](https://linkedin.com/in/karolis-z)
+Most of my day-to-day work lives in private repos, so my contribution graph doesn't tell the full story.
+
+Website: https://karolis.uk
+LinkedIn: https://linkedin.com/in/karolis-z
